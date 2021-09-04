@@ -1,6 +1,6 @@
 # Download Sticker 
 
-[Download As .zip](zipball/main)
+[Download As .zip](https://github.com/hmd818121/stickers/zipball/main)
 
 ## How to add to gbord?
 
